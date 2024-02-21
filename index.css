@@ -1,0 +1,19 @@
+.drop-btn{
+    background-color: red;
+    color: white;
+    padding: 7px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.drop-btn:hover, .drop-btn:focus {
+    background-color: #291313;
+    }
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+.navbar{
+    position: relative;
+    display: inline-block;
+}
