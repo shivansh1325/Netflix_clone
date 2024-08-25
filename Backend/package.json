@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev":"nodemon index.js"
-
+    "dev": "nodemon index.js"
   },
   "keywords": [
     "netflix",
@@ -16,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
+    "mongoose": "^8.5.4",
     "nodemon": "^3.1.0"
   }
 }
